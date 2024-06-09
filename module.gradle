@@ -1,9 +1,9 @@
 ext {
-    moduleLibraryName = "com.freefire"
-    magiskModuleId = "freefire_il2cppdumper"
-    moduleName = "Free Fire Dumper"
+    moduleLibraryName = "studiobside.CounterSide"
+    magiskModuleId = "counterside_il2cppdumper"
+    moduleName = "Counter Side Dumper"
     moduleAuthor = "Perfare"
     moduleDescription = "Il2CppDumper Zygisk version."
     moduleVersion = "v1.2.0"
-    moduleVersionCode = 2019117297
+    moduleVersionCode = 2943361
 }
